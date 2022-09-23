@@ -1,4 +1,4 @@
-function Movies(props) {
+function Movie(props) {
   const {
     Title: title,
     Year: year,
@@ -23,4 +23,4 @@ function Movies(props) {
     </div>
   );
 }
-export { Movies };
+export { Movie };
