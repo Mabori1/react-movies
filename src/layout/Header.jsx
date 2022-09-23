@@ -1,11 +1,11 @@
 function Header() {
   return (
-    <nav>
+    <nav className="#69f0ae green accent-2">
       <div className="nav-wrapper">
-        <a href="#" classNameName="brand-logo">
+        <a href="!#" className="brand-logo">
           React Movies
         </a>
-        <ul id="nav-mobile" classNameName="right hide-on-med-and-down">
+        <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a href="!#">Repo</a>
           </li>
